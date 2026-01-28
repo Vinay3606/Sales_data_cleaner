@@ -39,8 +39,7 @@ The main issue was that the JSON file was getting saved in a different folder in
 
 ## 4. Output Screenshots
 
-### ✅ Script Running Successfully
-![Script Output](output1.png)
+
 
 ### ✅ Final JSON File
 ![Clean JSON Output](output2.png)
